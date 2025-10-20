@@ -1,6 +1,6 @@
 # compact-archinstall
-400mb or around iso with arch tty grub uefi/mbr
+compact arch iso/img with arch tty grub uefi/mbr
 
-download 
+download current iso v1.06 600mb
 
 https://drive.google.com/drive/folders/1tJjOWo-qTJukAz8zadRgTrwM9ORRDAOI
