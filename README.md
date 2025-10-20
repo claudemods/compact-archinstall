@@ -1,5 +1,5 @@
 # compact-archinstall
-compact arch iso/img with arch tty grub uefi/mbr
+compact arch iso/img with arch tty grub uefi
 
 download link and guide on google drive
 
